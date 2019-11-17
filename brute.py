@@ -49,7 +49,7 @@ def cover():
     print WW+"  | Script BY: Grituul  |"
     print GG+"  | Reza antes de usar  |"
     print WW+"  | FACEBOOK: SebastianEscobar |"
-    print Y+"   | HackingProGrituul  |"
+    print Y+"   | HackingProGrituul   |"
     print WW+"  |--------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]  
     print WW+"  |--------------------------------------|"
