@@ -51,7 +51,7 @@ def cover():
     print WW+"  | FACEBOOK: SebastianEscobar |"
     print Y+"   | HackingProGrituul   |"
     print WW+"  |--------------------------------------|"
-    print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]  
+    print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]        |"
     print WW+"  |--------------------------------------|"
     print RR+"  +======================================+"
     print GG+"  |¢â€€   HACK FACEBOOK By Grituul   ¢â€¢ |"
