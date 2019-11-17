@@ -39,23 +39,23 @@ def cover():
     
     
     
-     """
-    runntek(GL+"           YouTube'@TecnoSolution ^_^...")
+    """
+    runntek(GL+"           Telegram'@Grituul ^_^...")
     time.sleep(1)
     print " "
-    print RR+"  +======================================+"
-    print GG+"  |¢â€€ HACK  FACEBOOK By Grituul  ¢â€¢   |"
-    print RR+"  +======================================+"
-    print WW+"  | Script BY: Grituul  |"
-    print GG+"  | Reza antes de usar  |"
-    print WW+"  | FACEBOOK: SebastianEscobar |"
-    print Y+"   | HackingProGrituul   |"
-    print WW+"  |--------------------------------------|"
+    print RR+"  +============================================+"
+    print GG+"  |¢â€€   HACK FACEBOOK By Grituul         ¢â€¢|"
+    print RR+"  +============================================+"
+    print WW+"  |            Script BY: Grituul              |"
+    print GG+"  |              Reza antes de usar            |"
+    print WW+"  |            FACEBOOK: SebastianEscobar      |"
+    print Y+"   |             YouTube: Grituul         |"
+    print WW+"  |--------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]        |"
-    print WW+"  |--------------------------------------|"
-    print RR+"  +======================================+"
-    print GG+"  |¢â€€   HACK FACEBOOK By Grituul   ¢â€¢ |"
-    print RR+"  +======================================+"     
+    print WW+"  |--------------------------------------------|"
+    print RR+"  +============================================+"
+    print GG+"  |¢â€€   HACK FACEBOOK By Grituul         ¢â€¢|"
+    print RR+"  +============================================+"     
 
 
 cover()
