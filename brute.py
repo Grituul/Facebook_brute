@@ -44,17 +44,17 @@ def cover():
     time.sleep(1)
     print " "
     print RR+"  +============================================+"
-    print GG+"  |¢â€€   HACK FACEBOOK By TecnoSolution   ¢â€¢|"
+    print GG+"  |¢â€€   HACK FACEBOOK By Grituul         ¢â€¢|"
     print RR+"  +============================================+"
-    print WW+"  |            Script BY: TecnoSolution        |"
+    print WW+"  |            Script BY: GrituulEscobar       |"
     print GG+"  |              Reza antes de usar            |"
-    print WW+"  |            FACEBOOK: TecnoSolution         |"
-    print Y+"   |             YouTube: TecnoSolution         |"
+    print WW+"  |            FACEBOOK: Sebastian             |"
+    print Y+"   |             Telegram: @Grituul             |"
     print WW+"  |--------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]        |"
     print WW+"  |--------------------------------------------|"
     print RR+"  +============================================+"
-    print GG+"  |¢â€€   HACK FACEBOOK By TecnoSolution   ¢â€¢|"
+    print GG+"  |¢â€€   HACK FACEBOOK By Grituul         ¢â€¢|"
     print RR+"  +============================================+"     
 
 
@@ -136,8 +136,8 @@ def search():
 #welcome
 def welcome():
         wel = GG+"""
-No olvides suscribirte al Canal de Youtube "TecnoSolution" 
-Y darle LIKE al Video.... Gracias!!!
+No olvides agradecer al whatsapp de "Grituul" 
+Y darle apoyo al creador.... Gracias!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! \033[96;4mLife Of Programmer\033[92;1m
        |_|
       """
