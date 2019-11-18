@@ -40,7 +40,7 @@ def cover():
     
     
      """
-    runntek(GL+"           YouTube'@TecnoSolution ^_^...")
+    runntek(GL+"      Nunca me cansaré de empezar de nuevo...")
     time.sleep(1)
     print " "
     print RR+"  +============================================+"
@@ -49,7 +49,7 @@ def cover():
     print WW+"  |            Script BY: GrituulEscobar       |"
     print GG+"  |              Reza antes de usar            |"
     print WW+"  |            FACEBOOK: Sebastian             |"
-    print Y+"   |             Telegram: @Grituul             |"
+    print Y+"  |             Telegram: @Grituul             |"
     print WW+"  |--------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]        |"
     print WW+"  |--------------------------------------------|"
@@ -136,8 +136,7 @@ def search():
 #welcome
 def welcome():
         wel = GG+"""
-No olvides agradecer al whatsapp de "Grituul" 
-Y darle apoyo al creador.... Gracias!!!
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! \033[96;4mLife Of Programmer\033[92;1m
        |_|
       """
