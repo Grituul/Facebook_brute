@@ -40,21 +40,21 @@ def cover():
     
     
      """
-    runntek(GL+"      Nunca me cansaré de empezar de nuevo...")
+    runntek(GL+"           YouTube'@TecnoSolution ^_^...")
     time.sleep(1)
     print " "
     print RR+"  +============================================+"
-    print GG+"  |¢â€€   HACK FACEBOOK By Grituul         ¢â€¢|"
+    print GG+"  |¢â€€   HACK FACEBOOK By TecnoSolution   ¢â€¢|"
     print RR+"  +============================================+"
-    print WW+"  |            Script BY: GrituulEscobar       |"
+    print WW+"  |            Script BY: TecnoSolution        |"
     print GG+"  |              Reza antes de usar            |"
-    print WW+"  |            FACEBOOK: Sebastian             |"
-    print Y+"  |             Telegram: @Grituul             |"
+    print WW+"  |            FACEBOOK: TecnoSolution         |"
+    print Y+"   |             YouTube: TecnoSolution         |"
     print WW+"  |--------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]        |"
     print WW+"  |--------------------------------------------|"
     print RR+"  +============================================+"
-    print GG+"  |¢â€€   HACK FACEBOOK By Grituul         ¢â€¢|"
+    print GG+"  |¢â€€   HACK FACEBOOK By TecnoSolution   ¢â€¢|"
     print RR+"  +============================================+"     
 
 
@@ -136,7 +136,8 @@ def search():
 #welcome
 def welcome():
         wel = GG+"""
-
+No olvides suscribirte al Canal de Youtube "TecnoSolution" 
+Y darle LIKE al Video.... Gracias!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! \033[96;4mLife Of Programmer\033[92;1m
        |_|
       """
